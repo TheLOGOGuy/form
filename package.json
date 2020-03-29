@@ -28,6 +28,6 @@
     "grunt-githooks": "^0.6.0",
     "grunt-mocha": "^1.0.4",
     "jquery": "^3.0.0",
-    "mocha": "^3.4.2"
+    "mocha": "^6.0.0"
   }
 }
